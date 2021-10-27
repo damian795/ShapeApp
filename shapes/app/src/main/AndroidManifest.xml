@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shapes">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Shapes">
+        <activity android:name=".DetailActivity2" android:label="@string/app_name" ></activity>
+        <activity android:name=".FRAGMENTActivity" />
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".DetailActivity" />
+        <activity android:name=".ShapeListActivity" />
+        <activity android:name=".BottomNavigationViewActivity" />
+        <activity android:name=".CustomEditTextActivity" />
+        <activity android:name=".MotionLayout" />
+        <activity android:name=".StartActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Kaneki" />
+    </application>
+
+</manifest>

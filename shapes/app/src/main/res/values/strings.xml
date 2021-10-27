@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">shapes</string>
+    <string name="change_me">change me</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="kaneki">Kaneki</string>
+    <string name="cyberpunk_2077">Cyberpunk 2077</string>
+    <string name="cyberpunk_2077_opis">Cyberpunk 2077 to rozgrywająca się w otwartym świecie przygoda, której akcja toczy się w Night City,
+        megalopolis rządzonym przez obsesyjną pogoń za władzą, sławą i przerabianiem własnego ciała.
+        Nazywasz się V i musisz zdobyć jedyny w swoim rodzaju implant — klucz do nieśmiertelności.</string>
+    <string name="cyberpunk_2077_opis2">Stwórz własny styl gry i ruszaj na podbój potężnego miasta przyszłości, którego historię kształtują twoje decyzje.
+        Cyberpunk 2077 stworzony został na silniku REDengine 4 przez zespół liczący około 500 osób – znacznie liczniejszy niż ten odpowiedzialny za poprzednią grę studia,
+        Wiedźmin 3: Dziki Gon z 2015 roku. Do pracy nad grą CD Projekt założył oddział we Wrocławiu, jak również nawiązał współpracę z firmami Digital Scapes, Nvidia,
+        QLOC i Jali Research. Konsultantem był twórca systemu Cyberpunk Mike Pondsmith, a jedną z głównych ról zagrał Keanu Reeves.
+        Ścieżka dźwiękowa skomponowana została przez Marcina Przybyłowicza i kilku innych artystów.
+        W celu promowania gry zapowiedziano szereg utworów pochodnych, w tym komiks, grę karcianą oraz produkcję anime.</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_list_view_adapter">ListViewAdapter</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
